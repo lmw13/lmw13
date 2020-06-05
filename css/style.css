@@ -91,7 +91,6 @@ h3,
 .header {
 	font-family: 'Creepster', serif;
 	font-weight: 400;
-	color: red;
 }
 
 h1 {
@@ -105,12 +104,12 @@ h1 {
 }
 
 .header a {
-	color: rgba(0, 0, 0, 0.76);
+	color: #8BD76B;
 	text-decoration: none !important;
 }
 
 .header a:hover {
-	color: rgba(0, 0, 0, 0.76);
+	color: #8BD76B;
 }
 
 h2 {
