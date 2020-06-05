@@ -63,12 +63,12 @@ footer a:hover {
 /* Links */
 
 a:link {
-	color: #FF851B;
+	color: rgba(0, 0, 0, 0.76);
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #FF851B;
+	color: rgba(0, 0, 0, 0.76);
 	text-decoration: underline;
 }
 
@@ -90,6 +90,8 @@ h3,
 .header {
 	font-family: 'Creepster', serif;
 	font-weight: 400;
+	color: #8BD76B;
+ 	text-shadow: 0.04em 0.04em 0 #54ad2f;
 }
 
 h1 {
