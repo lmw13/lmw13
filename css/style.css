@@ -91,7 +91,7 @@ h3,
 	font-family: 'Creepster', serif;
 	font-weight: 400;
 	color: #8BD76B;
- 	text-shadow: 0.04em 0.04em 0 #54ad2f;
+ 	text-shadow: 0 0.02em 0 #FFFFFF, 0 0.1em 0 rgba(0, 0, 0, 0.76);
 }
 
 h1 {
@@ -108,9 +108,6 @@ h1 {
 	text-decoration: none !important;
 }
 
-.header a:hover {
-	color: rgba(0, 0, 0, 0.76);
-}
 
 h2 {
 	font-size: 2.7em;
@@ -118,12 +115,10 @@ h2 {
 }
 
 h2 a {
-	color: rgba(0, 0, 0, 0.76) !important;
 	text-decoration: none !important;
 }
 
 h2 a:hover {
-	color: rgba(0, 0, 0, 0.76) !important;
 	text-decoration: none;
 }
 
