@@ -44,8 +44,7 @@ figcaption,
 nav,
 footer {
 	font-size: 0.718em;
-	text-transform: uppercase;
-	letter-spacing: 2px;
+	font-style: italic;
 }
 
 nav a,
