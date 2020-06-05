@@ -91,6 +91,9 @@ h3,
 .header {
 	font-family: 'Creepster', serif;
 	font-weight: 400;
+	text-transform: uppercase;
+	word-spacing: 0.5em;
+      	letter-spacing: 0.2em;
 }
 
 h1 {
