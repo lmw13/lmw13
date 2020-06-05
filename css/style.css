@@ -94,6 +94,7 @@ h3,
 	text-transform: uppercase;
 	word-spacing: 0.5em;
       	letter-spacing: 0.2em;
+	text-shadow: 3px 3px #FF851B;
 }
 
 h1 {
@@ -107,12 +108,12 @@ h1 {
 }
 
 .header a {
-	color: #8BD76B;
+	color: rgba(0, 0, 0, 0.76);
 	text-decoration: none !important;
 }
 
 .header a:hover {
-	color: #8BD76B;
+	color: rgba(0, 0, 0, 0.76);
 }
 
 h2 {
