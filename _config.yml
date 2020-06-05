@@ -1,7 +1,7 @@
-title: Adam Walser
+title: Halloween
 description: 
 author:
-  name: Adam Walser
+  name: 
 permalink: /:title/
 paginate: 5
 paginate_path: /page:num/
