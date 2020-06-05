@@ -1,4 +1,4 @@
-/* Body ⌁ */
+/* Body */
 
 body {
 	background: #FFFFFF;
@@ -91,30 +91,25 @@ h3,
 	font-family: 'Creepster', serif;
 	font-weight: 400;
 	text-transform: uppercase;
-	word-spacing: 0.5em;
-      	letter-spacing: 0.2em;
-	text-shadow: 3px 3px #54ad2f;
 }
 
 h1 {
 	font-size: 3.2em;
 	line-height: 1.15em;
-	color: #8BD76B;
 }
 
 .header {
 	font-size: 1.4em;
 	line-height: 1.25em;
-	color: #8BD76B;
 }
 
 .header a {
-	color: color: #8BD76B;
+	color: rgba(0, 0, 0, 0.76);
 	text-decoration: none !important;
 }
 
 .header a:hover {
-	color: color: #8BD76B;
+	color: rgba(0, 0, 0, 0.76);
 }
 
 h2 {
@@ -123,12 +118,12 @@ h2 {
 }
 
 h2 a {
-	color: color: #8BD76B !important;
+	color: rgba(0, 0, 0, 0.76) !important;
 	text-decoration: none !important;
 }
 
 h2 a:hover {
-	color: color: #8BD76B !important;
+	color: rgba(0, 0, 0, 0.76) !important;
 	text-decoration: none;
 }
 
@@ -149,8 +144,7 @@ h4 {
 time,
 .meta,
 figcaption {
-	font-family: 'Inter', SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
-	font-feature-settings: "zero";
+	font-family: 'Libre Franklin', 'Inter', SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
 	font-size: 0.718em;
 	color: rgb(169, 169, 169);
 }
