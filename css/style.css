@@ -93,13 +93,13 @@ h3,
 .header {
 	font-family: 'Creepster', cursive;
 	font-weight: 400;
-	text-shadow: 0 .11em 0 #54ad2f;
+	text-shadow: 0 .11em 0 #2ECC40;
 	text-transform: uppercase;
       	letter-spacing: 0.1em;
 }
 
 h1 {
-	color: #8BD76B;
+	color: #B10DC9;
 	font-size: 3.2em;
 	line-height: 1.15em;
 }
@@ -111,12 +111,12 @@ h1 {
 }
 
 .header a {
-	color: #8BD76B;
+	color: #B10DC9;
 	text-decoration: none !important;
 }
 
 .header a:hover {
-	color: color: #8BD76B;
+	color: #B10DC9;
 }
 
 h2 {
@@ -125,12 +125,12 @@ h2 {
 }
 
 h2 a {
-	color: #8BD76B !important;
+	color: #B10DC9 !important;
 	text-decoration: none !important;
 }
 
 h2 a:hover {
-	color: #8BD76B !important;
+	color: #B10DC9 !important;
 	text-decoration: none;
 }
 
