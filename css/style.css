@@ -11,6 +11,10 @@ body {
 	padding: 1em;
 }
 
+body p {
+	font-family: 'Source Serif Pro', serif;
+}
+
 .spacer {
 	padding-top: 2.43em;
 }
