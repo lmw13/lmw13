@@ -93,6 +93,7 @@ h3,
 .header {
 	font-family: 'Creepster', cursive;
 	font-weight: 400;
+	text-shadow: 0 .11em 0 #900;
 	text-transform: uppercase;
       	letter-spacing: 0.1em;
 }
