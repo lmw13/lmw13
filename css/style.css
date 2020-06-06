@@ -93,7 +93,8 @@ h3,
 .header {
 	font-family: 'Creepster', cursive;
 	font-weight: 400;
-	text-shadow: 0 .11em 0 #900;
+	color: #8BD76B;
+	text-shadow: 0 .11em 0 #54ad2f;
 	text-transform: uppercase;
       	letter-spacing: 0.1em;
 }
@@ -110,12 +111,12 @@ h1 {
 }
 
 .header a {
-	color: rgba(0, 0, 0, 0.76);
+	color: color: #8BD76B;
 	text-decoration: none !important;
 }
 
 .header a:hover {
-	color: rgba(0, 0, 0, 0.76);
+	color: color: #8BD76B;
 }
 
 h2 {
@@ -124,12 +125,12 @@ h2 {
 }
 
 h2 a {
-	color: rgba(0, 0, 0, 0.76) !important;
+	color: color: #8BD76B !important;
 	text-decoration: none !important;
 }
 
 h2 a:hover {
-	color: rgba(0, 0, 0, 0.76) !important;
+	color: color: #8BD76B !important;
 	text-decoration: none;
 }
 
