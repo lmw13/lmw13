@@ -99,7 +99,7 @@ h3,
 }
 
 h1 {
-	color: #B10DC9;
+	color: rgba(0, 0, 0, 0.76);
 	font-size: 3.2em;
 	line-height: 1.15em;
 }
@@ -111,12 +111,12 @@ h1 {
 }
 
 .header a {
-	color: #B10DC9;
+	color: rgba(0, 0, 0, 0.76);
 	text-decoration: none !important;
 }
 
 .header a:hover {
-	color: #B10DC9;
+	color: rgba(0, 0, 0, 0.76);
 }
 
 h2 {
@@ -125,12 +125,12 @@ h2 {
 }
 
 h2 a {
-	color: #B10DC9 !important;
+	color: rgba(0, 0, 0, 0.76) !important;
 	text-decoration: none !important;
 }
 
 h2 a:hover {
-	color: #B10DC9 !important;
+	color: rgba(0, 0, 0, 0.76) !important;
 	text-decoration: none;
 }
 
