@@ -5,14 +5,14 @@ body {
 	margin: 1em auto;
 	max-width: 800px;
 	line-height: 1.66;
-	font-family: 'PT Sans', 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+	font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 	font-size: 23px;
 	color: rgba(0, 0, 0, 0.76);
 	padding: 1em;
 }
 
 body p {
-	font-family: 'PT Serif', serif;
+	font-family: 'Source Serif Pro', serif;
 }
 
 .spacer {
@@ -151,7 +151,7 @@ h4 {
 time,
 .meta,
 figcaption {
-	font-family: 'PT Sans', 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+	font-family: 'Source Sans Pro',-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 	font-size: 0.718em;
 	color: rgb(169, 169, 169);
 }
@@ -184,7 +184,7 @@ blockquote {
 /* Code formatting */
 
 code {
-	font-family: 'PT Mono', monospace;
+	font-family: monospace;
 }
 
 pre {
@@ -353,7 +353,7 @@ span.small {
 .post-nav p {
 	flex: 1 1 0;
 	width: 45%;
-	font-family: 'PT Sans', 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+	font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 }
 
 .post-nav a {
