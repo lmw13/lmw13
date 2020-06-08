@@ -95,7 +95,6 @@ h2,
 h3, 
 .header {
 	font-weight: 400;
-	text-shadow: 0 .11em 0 rgba(0, 0, 0, 0.1);
 }
 
 h1 {
@@ -110,6 +109,7 @@ h1 {
 	line-height: 1.15em;
 	text-align: center;
 	text-transform: uppercase;
+	text-shadow: 0 .11em 0 rgba(0, 0, 0, 0.1);
       	letter-spacing: 0.1em;
 }
 
@@ -140,11 +140,13 @@ h2 a:hover {
 
 h3,
 .tags {
+	font-family: 'Jolly Lodger', serif;
 	font-size: 1.4em;
 	line-height: 1.25em;
 }
 
 h4 {
+	font-family: 'Jolly Lodger', serif;
 	font-size: 1em;
 	line-height: 1.25em;
 }
