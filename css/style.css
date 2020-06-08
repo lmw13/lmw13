@@ -1,18 +1,21 @@
-/* Body */
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+/* Body ⌁ */
 
 body {
 	background: #FFFFFF;
 	margin: 1em auto;
 	max-width: 800px;
 	line-height: 1.66;
-	font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+	font-family: 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+	font-feature-settings: "cv03", "cv04", "cv08", "cv09", "cv10";
 	font-size: 23px;
 	color: rgba(0, 0, 0, 0.76);
 	padding: 1em;
-}
-
-body p {
-	font-family: 'Source Serif Pro', serif;
 }
 
 .spacer {
@@ -48,7 +51,8 @@ figcaption,
 nav,
 footer {
 	font-size: 0.718em;
-	font-style: italic;
+	text-transform: uppercase;
+	letter-spacing: 2px;
 }
 
 nav a,
@@ -91,21 +95,16 @@ h1,
 h2, 
 h3, 
 .header {
-	font-family: 'Creepster', cursive;
+	font-family: 'Creepster', serif;
 	font-weight: 400;
-	text-shadow: 0 .11em 0 rgba(0, 0, 0, 0.1);
-	text-transform: uppercase;
-      	letter-spacing: 0.1em;
 }
 
 h1 {
-	color: rgba(0, 0, 0, 0.76);
 	font-size: 3.2em;
 	line-height: 1.15em;
 }
 
 .header {
-	
 	font-size: 1.4em;
 	line-height: 1.25em;
 }
@@ -151,7 +150,8 @@ h4 {
 time,
 .meta,
 figcaption {
-	font-family: 'Source Sans Pro',-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+	font-family: 'Inter', SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+	font-feature-settings: "zero";
 	font-size: 0.718em;
 	color: rgb(169, 169, 169);
 }
@@ -184,7 +184,7 @@ blockquote {
 /* Code formatting */
 
 code {
-	font-family: monospace;
+	font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
 }
 
 pre {
@@ -353,7 +353,6 @@ span.small {
 .post-nav p {
 	flex: 1 1 0;
 	width: 45%;
-	font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 }
 
 .post-nav a {
