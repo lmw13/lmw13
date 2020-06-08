@@ -50,6 +50,7 @@ figcaption,
 nav,
 footer {
 	font-size: 0.718em;
+	text-align: center;
 }
 
 nav a,
