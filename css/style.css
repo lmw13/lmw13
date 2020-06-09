@@ -108,7 +108,7 @@ h1 {
 	line-height: 1.15em;
 	text-align: center;
 	text-transform: uppercase;
-	text-shadow: 0 .11em 0 rgba(0, 0, 0, 0.1);
+	/* text-shadow: 0 .11em 0 rgba(0, 0, 0, 0.1); */
       	letter-spacing: 0.1em;
 	-webkit-text-stroke-width: 3px;
   	-webkit-text-stroke-color: black;
