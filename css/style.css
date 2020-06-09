@@ -110,6 +110,11 @@ h1 {
 	text-transform: uppercase;
 	text-shadow: 0 .11em 0 rgba(0, 0, 0, 0.1);
       	letter-spacing: 0.1em;
+	-webkit-text-stroke-width: 3px;
+  	-webkit-text-stroke-color: black;
+  	background: -webkit-linear-gradient(#A5F419, #237003);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
 }
 
 .header a {
