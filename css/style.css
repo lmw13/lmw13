@@ -97,7 +97,8 @@ h3,
 }
 
 h1 {
-	font-family: 'Jolly Lodger', serif;
+	font-family: 'Lacquer', serif;
+	text-transform: lowercase;
 	font-size: 3.2em;
 	line-height: 1.15em;
 }
@@ -127,8 +128,9 @@ h1 {
 }
 
 h2 {
-	font-family: 'Jolly Lodger', serif;
+	font-family: 'Lacquer', serif;
 	font-size: 2.7em;
+	text-transform: lowercase;
 	line-height: 1.15em;
 }
 
