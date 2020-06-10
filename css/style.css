@@ -130,6 +130,9 @@ h2 {
 	font-family: 'Jolly Lodger', serif;
 	font-size: 2.7em;
 	line-height: 1.15em;
+ 	-webkit-text-stroke-width: 0.1px;
+  	-webkit-text-stroke-color: rgba(0, 0, 0, 0.1);
+  	text-shadow: -5px 5px rgba(0, 0, 0, 0.1);
 }
 
 h2 a {
