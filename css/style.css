@@ -46,12 +46,17 @@ nav,
 }
 
 
-/* Navigation, Footer */
+/* Navigation, Footer, Aside */
 
 nav,
-footer {
+footer,
+aside {
 	font-size: 0.718em;
 	text-align: center;
+}
+
+aside {
+	margin-bottom: -2em;
 }
 
 footer img {
