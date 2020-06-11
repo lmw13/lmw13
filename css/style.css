@@ -527,10 +527,7 @@ span.small {
 	body {
 		font-size: 16px !important;
 	}
-}
-
-@media (hover: hover) { 
-  	footer img:hover {
+	footer img:hover {
 	transition: 0s;
   	-webkit-transition: 0s;
   	-moz-transition: 0s;
