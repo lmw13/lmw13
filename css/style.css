@@ -25,13 +25,11 @@ body {
 
 .first,
 figcaption,
+nav,
 .crumbs {
 	margin-top: -1em;
 }
 
-nav {
-	margin-top: -2em;
-}
 
 /* Text highlight */
 
