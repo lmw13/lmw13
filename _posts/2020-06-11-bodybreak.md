@@ -4,10 +4,10 @@ title: "Body Break!"
 date: 2020-06-11
 ---
 
-Some of my favourite Halloween songs.<!--more-->
+Some of my favourite Halloween songs.
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/teRZ8o11AQg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/teRZ8o11AQg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><!--more-->
 </div>
 <p>
 <div class="videoWrapper">
