@@ -282,6 +282,7 @@ img {
 	height: auto;
 	border: 2px solid #FFE9C9;
 	border-radius: 5px;
+	text-align: center;
 }
 
 figcaption {
