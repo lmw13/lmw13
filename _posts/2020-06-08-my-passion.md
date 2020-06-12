@@ -12,4 +12,4 @@ I love Halloween Becus you get to wer costoums and Get candy. You Get to carve p
 
 Hallowee is LiFe!
 
-![alt text]( {{ site.baseurl | prepend: site.url }}/eye.png"Logo Title Text 1")
+![My Passion](https://lmw13.github.io/images/mypassion.jpg "My Passion")
