@@ -17,3 +17,4 @@ Some monster drawings.<!--more-->
 
 ![Drawing 4](https://lmw13.github.io/images/drawing4.jpg "Drawing 4")
 <figcaption>Frankenstein's Monster!</figcaption>
+<p></p>
