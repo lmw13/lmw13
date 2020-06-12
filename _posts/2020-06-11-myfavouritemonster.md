@@ -4,9 +4,7 @@ title: "My Favourite Monster"
 date: 2020-06-11
 ---
 
-My favourite monster...<!--more-->
-
-I Pefr Girl Monstrs.
+I Pefr Girl Monstrs.<!--more-->
 
 I like to drow Gril Monstrs.
 
