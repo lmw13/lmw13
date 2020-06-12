@@ -8,7 +8,7 @@ Exploring [Frightgeist](https://frightgeist.withgoogle.com/) I learned:<!--more-
 
 Scooby Doo wer the 73th most PoPelr.
 
-The 3 most popular costumes in the United States in 2019 were:
+**The 3 most popular costumes in the United States in 2019 were:**
 
 1) it
 
@@ -16,7 +16,7 @@ The 3 most popular costumes in the United States in 2019 were:
 
 3) SPiDer-Man
 
-My favourite costume on the list is:
+**My favourite costume on the list is:**
 
 Scooby Doo
 
