@@ -7,5 +7,5 @@ date: 2020-06-09
 A Picshr oF Monstrs.<!--more-->
 
 ![No Guts, No Gory](https://lmw13.github.io/images/nogutsnogory.jpg "No Guts, No Gory")
-<fig caption>No Guts, No Gory!</fig caption>
+<figcaption>No Guts, No Gory!</figcaption>
 <p></p>
