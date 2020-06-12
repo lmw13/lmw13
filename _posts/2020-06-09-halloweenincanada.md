@@ -10,6 +10,6 @@ Did you know?<!--more-->
 
 2. The First recorded dressing up in costumes on Halloween in NA wase in Vancouver, BC in 1898.
 
-[The Canadian Encyclopedia](https://thecanadianencyclopedia.ca/en):
+[The Canadian Encyclopedia](https://thecanadianencyclopedia.ca/en)
 
 ![Facts](https://lmw13.github.io/images/facts1.jpg "Facts")
