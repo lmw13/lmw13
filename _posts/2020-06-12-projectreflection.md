@@ -6,7 +6,7 @@ date: 2020-06-12
 
 Reflecting on my project.<!--more-->
 
-**1) What part of your project are your most proud of?**
+**1) What part of your project are you most proud of?**
 
 The holle thening.
 
