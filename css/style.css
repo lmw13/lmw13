@@ -275,9 +275,11 @@ ol {
 /* Responsive images */
 
 img {
+	background-color: #FFE9C9;
+	mix-blend-mode: multiply;
 	max-width: 100%;
 	height: auto;
-	mix-blend-mode: multiply;
+	border: 2px solid rgba(0, 0, 0, 0.76);
 }
 
 figcaption {
